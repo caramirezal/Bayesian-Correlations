@@ -29,11 +29,11 @@ BaCo <- function(X){
 #Example
 
 #create a matrix (or load your own)
-X <- matrix(1:1000, ncol=20)
+#X <- matrix(1:1000, ncol=20)
 
 #compute the Bayesian correlation matrix
-B <- BaCo(X)
+#B <- BaCo(X)
 
 #look at the first 5 columns and 5 rows
-B[1:5,1:5]
+#B[1:5,1:5]
 
